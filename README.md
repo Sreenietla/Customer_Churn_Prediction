@@ -17,3 +17,31 @@ lead to construction of purchase decision and also the underlying loyalty hooks.
 Beyond building a model to predict churn you will have to identify the patterns
 for churn and non-churn also which will help in-turn to the company to take
 action accordingly to limit churn.
+
+The datasets are provided as cited below for the analysis:
+1. Demographics Data :
+• “Train_Demographics.csv” &
+“Test_Demographics.csv”
+• These files consist of the demographic data of each
+customer, like HouseholdID, Country, State,
+Education, Gender etc.
+2. Account Information :
+• “Train_AccountInfo.csv” & “Test_AccountInfo.csv”
+• These files consist of the customer account
+information with the telecom company, like,
+CustomerID, DOE, Contract Type, Paymentmethod
+etc.
+3. Data of ServicesOptedFor :
+• “Train_ServicesOptedFor.csv” &
+“Test_ServicesOptedFor.csv”
+• These files consist of the details about the services the
+customers signed for
+4. Churn Data:
+• “Train.csv” & “Test.csv”
+• This Train.csv table contains the Customer churn
+details, like CustomerID, Churn.
+• This Test.csv contains only CustomerID (Not
+ target attribute, which is to be predicted)
+5. Attributes Details : “AttributeInformation.docx”
+• This has the details of attributes for the datasets
+cited above (1 to 4)
