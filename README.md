@@ -45,3 +45,19 @@ details, like CustomerID, Churn.
 5. Attributes Details : “AttributeInformation.docx”
 • This has the details of attributes for the datasets
 cited above (1 to 4)
+
+Main Tasks:
+1. Exploratory Data Analysis using visualizations in R Notebook or
+Jupiter notebook format ( Use only Train data for this task)
+2. You are expected to build a framework that predicts whether a
+customer churns or not from the company.
+3. You are expected to build a framework that generates the
+patterns for churn and non-churn (“Yes” and “No” in target
+attribute “Churn”), using the decision tree algorithms.
+
+
+Error Metrics:
+o Consider “Recall” for “Yes” level of Target attribute as error
+metric and tune the model accordingly.
+o Consider appropriate error metric for deciding the top 10
+patterns for each level in target attribute. 
