@@ -18,7 +18,7 @@ Beyond building a model to predict churn you will have to identify the patterns
 for churn and non-churn also which will help in-turn to the company to take
 action accordingly to limit churn.
 
-The datasets are provided as cited below for the analysis:
+# The datasets are provided as cited below for the analysis:
 1. Demographics Data :
 • “Train_Demographics.csv” &
 “Test_Demographics.csv”
@@ -46,7 +46,7 @@ details, like CustomerID, Churn.
 • This has the details of attributes for the datasets
 cited above (1 to 4)
 
-Main Tasks:
+# Main Tasks:
 1. Exploratory Data Analysis using visualizations in R Notebook or
 Jupiter notebook format ( Use only Train data for this task)
 2. You are expected to build a framework that predicts whether a
@@ -56,7 +56,7 @@ patterns for churn and non-churn (“Yes” and “No” in target
 attribute “Churn”), using the decision tree algorithms.
 
 
-Error Metrics:
+# Error Metrics:
 o Consider “Recall” for “Yes” level of Target attribute as error
 metric and tune the model accordingly.
 o Consider appropriate error metric for deciding the top 10
